@@ -27,29 +27,31 @@ Part                                                                    | Price 
 Electrical Cabinet - Schneider NSYPLM54PG                               | ~ EUR 110.-   | 1             | ~ EUR 110.    | Contact your local Industrial Electrician Shop
 Electrical Cabinet Metal Plate - Schneider NSYMPP54                     | ~ EUR 27.-    | 1             | ~ EUR 27.-    | Contact your local Industrial Electrician Shop
 Electrical Cabinet Wall Mounting Kit - Schneider  NSYPFXPLM             | ~ EUR 20.-    | 1             | ~ EUR 20.-    | Contact your local Industrial Electrician Shop
-Harting Connector Chassis - Han 3A-AGG-QB                               |               |               |               | www.tme.eu/details/09200030301/  
-Harting Connector Aerial - Han 3A-GG-M20                                |               |               |               | www.tme.eu/details/19200031440/  
-Harting Connector 4 + 1 Male - Han 4A-STI-S                             |               |               |               | www.tme.eu/details/09200042611/  
-Harting Connector 4 + 1 Female - Han 4A-BU-S                            |               |               |               | www.tme.eu/details/09200042711/  
-Amphenol IP67 RJ45 Connector Base                                       |               |               |               | www.mouser.es/ProductDetail/amphenol/rcp-00amma-tlm7001/
-Amphenol IP67 RJ45 Connector Cable Cover                                |               |               |               | www.mouser.es/ProductDetail/amphenol/rcp-5spffh-tcu7001/
-Amphenol IP67 RJ45 Connector Cap                                        |               |               |               | www.mouser.es/ProductDetail/amphenol/cap-wacmtpc1/
-Fibox GPA M20 Cable Gland                                               | EUR 0.37      | 5             |               | www.tme.eu/details/gpa-m20/  
-Fibox M20 Nut                                                           | EUR 0.15      | 4             |               | www.tme.eu/details/gpa-m20-b/  
+Harting Connector Chassis - Han 3A-AGG-QB                               | EUR 5.70      | 1             | EUR 5.70      | www.tme.eu/details/09200030301/  
+Harting Connector Aerial - Han 3A-GG-M20                                | EUR 4.40      | 1             | EUR 4.40      | www.tme.eu/details/19200031440/  
+Harting Connector 4 + 1 Male - Han 4A-STI-S                             | EUR 9.90      | 1             | EUR 9.90      | www.tme.eu/details/09200042611/  
+Harting Connector 4 + 1 Female - Han 4A-BU-S                            | EUR 10.74     | 1             | EUR 10.74     | www.tme.eu/details/09200042711/  
+Amphenol IP67 RJ45 Connector Base                                       | EUR 4.21      | 6             | EUR 25.26     | Mouser.com 523-RCP00AMMATLM7001
+Amphenol IP67 RJ45 Connector Cable Cover                                | EUR 8.54      | 6             | EUR 51.04     | Mouser.com 523-RCP5SPFFHTCU7001
+Amphenol IP67 RJ45 Connector Cap                                        | EUR 3.51      | 4             | EUR 14.04     | Mouser.com 523-CAP-WACMTPC1
+Fibox GPA M20 Cable Gland                                               | EUR 0.37      | 5             | EUR 1.85      | www.tme.eu/details/gpa-m20/  
+Fibox M20 Nut                                                           | EUR 0.15      | 4             | EUR 0.60      | www.tme.eu/details/gpa-m20-b/  
 MeanWell DR-UPS40                                                       | EUR 31.30     | 1             | EUR 31.30     | www.tme.eu/details/dr-ups40
-MeanWell NDR-120-24                                                     | EUR 23.10     | 1             |               | www.tme.eu/details/ndr-120-24/  
-Meanwell DDR-60G-24                                                     | EUR 21.86     | 1             |               | www.tme.eu/details/ddr-60g-24/  
-Meanwell DDR-30G-24                                                     | EUR 17.45     | 1             |               | www.tme.eu/details/ddr-30g-24/  
-Yuasa NP7-12 Battery                                                    | EUR 20.60     | 2             |               | www.tme.eu/details/accu-hp7-12_y/  
-24 Volt DPDT Relay                                                      |               |               |               | https://www.tme.eu/es/details/40.52.9.024.000
-DIN Rail adapter for Relay                                              |               |               |               | https://www.tme.eu/es/details/95.85.3sma
-DPN L+N 6 Amp Narrow Circuit Breaker                                    | ~ EUR 12.-    | 2             |               | Contact your local Industrial Electrician Shop
-DIN Rail terminal blocks                                                | ~ EUR 12.-    | 5             |               | Contact your local Industrial Electrician Shop
-DIN Rail terminal block links                                           | ~ EUR 12.-    | 5             |               | Contact your local Industrial Electrician Shop
-Mikrotik RB4011 Ruter		                                        | EUR 119.-     | 5             |               | Contact your local Industrial Electrician Shop
-Teltonika RUT 955 2G/3G/4G Router with DIN Rail Adaptor                 | EUR 183.-     | 5             |               | Contact your local Industrial Electrician Shop
-Sinlge port Gigabit PoE Injector                                        | EUR 183.-     | 5             |               | Contact your local Industrial Electrician Shop
-8 port Gigabit PoE Injector                                             | EUR 183.-     | 5             |               | Contact your local Industrial Electrician Shop
+MeanWell NDR-120-24                                                     | EUR 23.10     | 1             | EUR 23.10     | www.tme.eu/details/ndr-120-24/  
+Meanwell DDR-60G-24                                                     | EUR 21.86     | 1             | EUR 21.86     | www.tme.eu/details/ddr-60g-24/  
+Meanwell DDR-30G-24                                                     | EUR 17.45     | 1             | EUR 17.45     | www.tme.eu/details/ddr-30g-24/  
+Yuasa NP7-12 Battery                                                    | EUR 20.60     | 2             | EUR 20.60     | www.tme.eu/details/accu-hp7-12_y/  
+24 Volt DPDT Relay                                                      | EUR 3.62      | 2             | EUR 7.24      | https://www.tme.eu/es/details/40.52.9.024.000
+DIN Rail adapter for Relay                                              | EUR 5.50      | 2             | EUR 11.-      | https://www.tme.eu/es/details/95.85.3sma
+DPN L+N 6 Amp Narrow Circuit Breaker                                    | ~ EUR 12.-    | 2             | ~ EUR 24.-    | Contact your local Industrial Electrician Shop
+DIN Rail terminal blocks                                                | ~ EUR 1.5     | 5             | ~ EUR 6.-     | Contact your local Industrial Electrician Shop
+DIN Rail terminal block links                                           | ~ EUR 0.5     | 5             | ~ EUR 2.5     | Contact your local Industrial Electrician Shop
+Mikrotik RB4011 Ruter		                                        	| EUR 155.59    | 1             | EUR 155.59    | https://www.landashop.com/mkt-rb4011igs-rm.html
+Teltonika RUT 955 2G/3G/4G Router with DIN Rail Adaptor                 | EUR 175.08    | 1             | EUR 175.08    | https://varia-store.com/en/produkt/31202
+Sinlge port Gigabit PoE Injector                                        | EUR 4.92      | 1             | EUR 4.92      | http://www.ciudadwireless.com/network_apoe03_redundancy_industrial_adapter-p-4594.html
+8 port Gigabit PoE Injector                                             | EUR 25.54     | 1             | EUR 25.54     | http://www.ciudadwireless.com/network_apoe08g_passive_gigabit_injector-p-7241.html
+Logilink Ethernet color cables                  						| EUR 1.47      | 10            | EUR 14.70     | https://www.tme.eu/es/details/cq3015s (Search for multiple colors)
+**Total Cost**             												|               |               | **EUR 821.41**| **Excluding work force :)**
 
 Those are the consumables:
 
